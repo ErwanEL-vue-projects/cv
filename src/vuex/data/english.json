@@ -1,0 +1,147 @@
+{   
+    "infos": {
+        "location": "Medellin, CO",
+        "tel": "+573156833073",
+        "mail": "leblois.erwan@hotmail.fr",
+        "downloadButton": "Download CV",
+        "title": "Waiter",
+        "nationality": {
+            "title": "Nationality",
+            "value": "French"
+        },
+        "dob": {
+            "title": "Date of birth",
+            "value": "04/07/1990" 
+        },
+        "languages": {
+            "title": "Languages",
+            "french": {
+                "title": "French",
+                "nivel": "Native language"
+            },
+            "english": {
+                "title": "English",
+                "nivel": "Fluent"
+            },
+            "spanish": {
+                "title": "Spanish",
+                "nivel": "Fluent"
+            }
+        }
+    },
+    "portfolio": {
+        "title": "Portfolio",
+        "desc": "PLACES WHERE I HAVE WORKED"
+    },
+    "skills": {
+        "title": "Skills",
+        "desc": "SKILLS",
+        "list": [
+            {
+                "title": "In the dinning room",
+                "list": ["Reservations", "Preparation of the restaurant", "Welcoming customers", "Take the order", "Table service", "Reception", "Greet customers", "Dress the tables"]
+            },
+            {
+                "title": "Others",
+                "list": ["Room service: Take the order", "Room service", "Mini-bar: Dress the buffet", " Runner"]
+            }
+        ]
+    },
+    "experiences": {
+        "title": "Work experience",
+        "desc": "PREVIOUS JOB",
+        
+"list": [
+            {
+                "title": "Chef de rang",
+                "location": "Le Burgundy - Paris",
+                "date": "2012",
+                "desc": "Breakfast, lunch, dinner, banquets, cocktails"
+            },
+            {
+                "title": "Commis de salle",
+                "location": "Le Burgundy - Paris",
+                "date": "2012",
+                "desc": "Runner, room service"
+            },
+            {
+                "title": "Waiter",
+                "location": "Mia Bistrot - PUNTA DEL ESTE URUGUAY",
+                "date": "2017",
+                "desc": "Summer season"
+            },
+            {
+                "title": "Waiter",
+                "location": "Bar brewery, Beersel - BUENOS AIRES",
+                "date": "2016"
+            },
+            {
+                "title": "Waiter events",
+                "location": "Bar le Merval, Hotel Madero, Hotel Anselmo - BUENOS AIRES",
+                "date": "2016"
+            },
+            {
+                "title": "Waiter restaurant employee",
+                "location": "Ikea food - Paris",
+                "date": "2015"
+            },
+            {
+                "title": "Waiter events",
+                "location": "Paradis Latin - Paris",
+                "date": "2013"
+            },
+            {
+                "title": "Apprentice commis de salle",
+                "location": "Paradis Latin - Paris",
+                "date": "2010",
+                "desc": "Banquet service"
+            },
+            {
+                "title": "Apprentice commis de cuisine",
+                "location": "Charlie Birdy - Paris",
+                "date": "2009"
+            },
+            {
+                "title": "Commis de cuisine",
+                "location": "Sogeres",
+                "date": "2008"
+            }
+        ]
+    },
+    "educations": {
+        "title": "Education",
+        "desc": "MY DEGREES",
+        "list": [
+            {
+                "title": "BTS Hôtellerie-Restauration En alternance",
+                "location": "Paris",
+                "date": "2010",
+                "desc": "Commis de cuisine et de salle"
+            },
+            {
+                "title": "BAC STI Génie électrotechnique ",
+                "location": "Lycée Voillaume - France",
+                "date": "2009"
+            }
+
+        ]
+    },
+    "hobbies": {
+        "title": "Hobbies",
+        "desc": "MY HOBBIES",
+        "list": [
+            {
+                "title": "Computing",
+                "list": ["Micros", "InDesign", "Web development"]
+            },
+            {
+                "title": "Sports",
+                "list": ["Natation", "Tennis"]
+            },
+            {
+                "title": "Others",
+                "list": ["French clases, Voyages (Argentine, Uruguay, Brésil, Chili, Colombie)"]
+            }
+        ]
+    }
+}

@@ -1,0 +1,146 @@
+{   
+    "infos": {
+        "location": "Medellin, CO",
+        "tel": "+573156833073",
+        "mail": "leblois.erwan@hotmail.fr",
+        "downloadButton": "Descargar el CV",
+        "title": "Mesero",
+        "nationality": {
+            "title": "Nacionalidad",
+            "value": "Francés"
+        },
+        "dob": {
+            "title": "Nacido el",
+            "value": "04/07/1990" 
+        },
+        "languages": {
+            "title": "Idiomas",
+            "french": {
+                "title": "Francés",
+                "nivel": "Lengua materna"
+            },
+            "english": {
+                "title": "Inglés",
+                "nivel": "Avanzado"
+            },
+            "spanish": {
+                "title": "Español",
+                "nivel": "Avanzado"
+            }
+        }
+    },
+    "portfolio": {
+        "title": "Portafolio",
+        "desc": "LUGARES DONDE HE TRABAJADO"
+    },
+    "skills": {
+        "title": "Habilidades",
+        "desc": "MIS HABILIDADES",
+        "list": [
+            {
+                "title": "En el comedor",
+                "list": ["Reservaciones", " preparación del restaurante", " bienvenida de los clientes", " recibir el pedido", " servicio", " recepción", " despedir clientes", " poner las mesas."]
+            },
+            {
+                "title": "Otro",
+                "list": ["Room service: Tomar el pedido", " servicio de habitaciones", " mini-bar: Poner el bufé", " Runner"]
+            }
+        ]
+    },
+    "experiences": {
+        "title": "Experiencias",
+        "desc": "EXPERIENCIAS ANTERIORES",
+        "list": [
+            {
+                "title": "Demi chef de rang",
+                "location": "Restaurant le Baudelaire - Hotel Le Burgundy - Paris",
+                "date": "2012",
+                "desc": "Petit déjeuner, banquets"
+            },
+            {
+                "title": "Commis de salle",
+                "location": "Le Burgundy - Paris",
+                "date": "2012",
+                "desc": "Runner, room service"
+            },
+            {
+                "title": "Mesero",
+                "location": "Mia Bistrot - PUNTA DEL ESTE URUGUAY",
+                "date": "2017",
+                "desc": "Temporada "
+            },
+            {
+                "title": "Mesero",
+                "location": "Bar Cerveceria, Beersel - BUENOS AIRES",
+                "date": "2016"
+            },
+            {
+                "title": "Mesero Eventual",
+                "location": "Bar le Merval, Hotel Madero, Hotel Anselmo - BUENOS AIRES",
+                "date": "2016"
+            },
+            {
+                "title": "Mesero Restaurante trabajador",
+                "location": "Ikea food - Paris",
+                "date": "2015"
+            },
+            {
+                "title": "Mesero Eventual",
+                "location": "Paradis Latin - Paris",
+                "date": "2013"
+            },
+            {
+                "title": "Apprenti commis de salle",
+                "location": "Paradis Latin - Paris",
+                "date": "2010",
+                "desc": "Servicio de banquetes "
+            },
+            {
+                "title": "Apprenti commis de cuisine",
+                "location": "Charlie Birdy - Paris",
+                "date": "2009"
+            },
+            {
+                "title": "Commis de cuisine",
+                "location": "Sogeres",
+                "date": "2008"
+            }
+        ]
+    },
+    "educations": {
+        "title": "Formacion Académica",
+        "desc": "MIS FORMACIONES",
+        "list": [
+            {
+                "title": "BTS Hôtellerie-Restauration En alternance",
+                "location": "Paris",
+                "date": "2010",
+                "desc": "Commis de cuisine et de salle"
+            },
+            {
+                "title": "BAC STI Génie électrotechnique ",
+                "location": "Lycée Voillaume - France",
+                "date": "2009"
+            }
+
+        ]
+    },
+    "hobbies": {
+        "title": "Centro de interés",
+        "desc": "MIS CENTROS DE INTERES",
+        "list": [
+            {
+                "title": "Instrumentos informáticos",
+                "list": ["Micros", "InDesign", "Desarollo Web"]
+            },
+            {
+                "title": "Deportes",
+                "list": ["Natación", "Tenis"]
+            },
+            {
+                "title": "Otros datos",
+                "list": ["Cursos de francés", "Viajes (Argentina, Uruguay, Brasil, Chile)"]
+            }
+        ]
+    }
+}

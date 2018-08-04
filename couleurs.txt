@@ -1,0 +1,4 @@
+bleu très foncé #023859
+bleu foncé #0f5a8c
+bleu clair #3782aa
+gris/beige #f1f2eb

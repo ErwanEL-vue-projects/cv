@@ -1,0 +1,20 @@
+[
+    {   
+        "id": "french",
+        "infos": {
+            "location": "Medellin, CO",
+            "tel": "+573156833073",
+            "mail": "leblois.erwan@hotmail.fr",
+            "title": "Chef de rang"
+        }
+    },
+    {
+        "id": "spanish",
+        "infos": {
+            "location": "Medellin, CO",
+            "tel": "+573156833073",
+            "mail": "leblois.erwan@msn.fr",
+            "title": "Chef de maeuk"
+        }
+    }
+]

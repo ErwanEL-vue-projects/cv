@@ -1,0 +1,146 @@
+{   
+    "infos": {
+        "location": "Medellin, CO",
+        "tel": "+573156833073",
+        "mail": "leblois.erwan@hotmail.fr",
+        "downloadButton": "Télécharger le CV",
+        "title": "Chef de rang",
+        "nationality": {
+            "title": "Nationalité",
+            "value": "Français"
+        },
+        "dob": {
+            "title": "Date de naissance",
+            "value": "04/07/1990" 
+        },
+        "languages": {
+            "title": "Langues",
+            "french": {
+                "title": "Français",
+                "nivel": "Langue maternelle"
+            },
+            "english": {
+                "title": "Anglais",
+                "nivel": "Courant"
+            },
+            "spanish": {
+                "title": "Espagnol",
+                "nivel": "Courant"
+            }
+        }
+    },
+    "portfolio": {
+        "title": "Portfolio",
+        "desc": "ETABLISSEMENTS DANS LESQUELLES J'AI TRAVAILLE"
+    },
+    "skills": {
+        "title": "Compétences",
+        "desc": "MES COMPETENCES",
+        "list": [
+            {
+                "title": "En salle",
+                "list": ["Réservations", "Mise en place", "Accueil", "Prise de commande", "Service", "Encaissements", "Prendre congé des clients", "Redressage des tables"]
+            },
+            {
+                "title": "Autre",
+                "list": ["Room service: Prise de commandes", "Service en chambre", " mini-bar: Dressage du buffet", " Runner"]
+            }
+        ]
+    },
+    "experiences": {
+        "title": "Expériences professionnelle",
+        "desc": "EXPERIENCES ANTERIEURES",
+        "list": [
+            {
+                "title": "Demi chef de rang",
+                "location": "Le Burgundy - Paris",
+                "date": "2012",
+                "desc": "Service petit déjeuner, déjeuner, dîner, cocktails dinatoire, banquets"
+            },
+            {
+                "title": "Commis de salle",
+                "location": "Le Burgundy - Paris",
+                "date": "2012",
+                "desc": "Runner, room service"
+            },
+            {
+                "title": "Chef de rang",
+                "location": "Mia Bistrot - PUNTA DEL ESTE URUGUAY",
+                "date": "2017",
+                "desc": "Saison d'été"
+            },
+            {
+                "title": "Serveur",
+                "location": "Bar Beersel - BUENOS AIRES",
+                "date": "2016"
+            },
+            {
+                "title": "Serveur extra",
+                "location": "Bar le Merval, Hotel Madero, Hotel Anselmo - BUENOS AIRES",
+                "date": "2016"
+            },
+            {
+                "title": "Serveur employé de restaurant",
+                "location": "Ikea food - Paris",
+                "date": "2015"
+            },
+            {
+                "title": "Serveur extra",
+                "location": "Paradis Latin - Paris",
+                "date": "2013"
+            },
+            {
+                "title": "Apprenti commis de salle",
+                "location": "Paradis Latin - Paris",
+                "date": "2010",
+                "desc": "Service de banquet"
+            },
+            {
+                "title": "Apprenti commis de cuisine",
+                "location": "Charlie Birdy - Paris",
+                "date": "2009"
+            },
+            {
+                "title": "Commis de cuisine",
+                "location": "Sogeres",
+                "date": "2008"
+            }
+        ]
+    },
+    "educations": {
+        "title": "Diplômes et formations",
+        "desc": "MON PARCOURS",
+        "list": [
+            {
+                "title": "BTS Hôtellerie-Restauration En alternance",
+                "location": "Paris",
+                "date": "2010",
+                "desc": "Commis de cuisine et de salle"
+            },
+            {
+                "title": "BAC STI Génie électrotechnique ",
+                "location": "Lycée Voillaume - France",
+                "date": "2009"
+            }
+
+        ]
+    },
+    "hobbies": {
+        "title": "Centres d'intérêt ",
+        "desc": "MES LOISIRS",
+        "list": [
+            {
+                "title": "Outil informatique",
+                "list": ["Micros", "InDesign", "Développement web"]
+            },
+            {
+                "title": "Sports",
+                "list": ["Natation", "Tennis"]
+            },
+            {
+                "title": "Autres",
+                "list": ["Voyages (Argentine, Uruguay, Brésil, Chili, Colombie)"]
+            }
+        ]
+    }
+}
