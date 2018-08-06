@@ -29,8 +29,8 @@ export default {
     .copyright{ text-align: center; padding: 30px 0; background: #023859; } 
     .copyright ,p{color: white;}
     #vue {
-        width: 30px;
-        height: 30px;
+        width: 20px;
+        height: 20px;
     }
     #mate {
         width: 40px;
