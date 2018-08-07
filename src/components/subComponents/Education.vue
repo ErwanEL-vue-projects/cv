@@ -2,8 +2,8 @@
     <div class="experience margin-b-50">
         <h4><b>{{item.title}}</b></h4>
         <h5 class="font-yellow"><b>{{item.location}}</b></h5>
-        <h6 class="margin-t-10">{{item.date}}</h6>
-        <p class="font-semi-white margin-tb-30">{{item.desc}}</p>
+        <h6 class="margin-t-10">- {{item.date}} - </h6>
+        <p class="font-semi-white margin-tb-30"><em>{{item.desc}}</em></p>
     </div><!-- experience -->
 </template>
 

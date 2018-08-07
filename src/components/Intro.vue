@@ -5,7 +5,7 @@
 				<div class="col-md-1 col-lg-2"></div>
 				<div class="col-md-10 col-lg-8">
 					<div class="intro">
-						<div class="profile-img"><img src="static/images/juan.jpg" alt=""></div>
+						<div class="profile-img"><img src="../assets/juan.jpg" alt=""></div>
 						<h2><b>Erwan EL</b></h2>
 						<h4 class="font-blue">{{ data.infos.title }}</h4>
 						<div class="margin-tb-30">
@@ -112,7 +112,7 @@ export default {
 <style scoped>
 
 .intro-section{ padding-top: 200px; position: relative; background-size: cover; 
-	z-index: 1;background-image: url(/static/images/restaurant/5.jpg); }
+	z-index: 1;background-image: url(../assets/7.jpg); }
 
 .intro-section:before{ content:''; z-index: -1; position: absolute; top: 0; bottom: 0; left: 0; 
 	right: 0; background: rgba(0,0,0, .3);}

@@ -1,6 +1,6 @@
 <template>
     <div class="experience margin-b-50">
-        <h5 class="font-yellow"><b>{{ item.title }}</b></h5>
+        <h5 class="font-yellow"><b><u>{{ item.title }}</u></b></h5>
         <br>
         <ul class="list margin-b-30" v-for="e in item.list" :e='e'>
             <li>{{e}}</li>

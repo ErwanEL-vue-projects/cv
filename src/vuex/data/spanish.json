@@ -53,13 +53,15 @@
         "list": [
             {
                 "title": "Demi chef de rang",
-                "location": "Restaurant le Baudelaire - Hotel Le Burgundy - Paris",
+                "location": "Restaurant le Baudelaire - París",
+                "hotel": "Hotel Le burgundy",
                 "date": "2012",
                 "desc": "Petit déjeuner, banquets"
             },
             {
                 "title": "Commis de salle",
-                "location": "Le Burgundy - Paris",
+                "location": "Restaurant le Baudelaire - París",
+                "hotel": "Hotel Le burgundy",
                 "date": "2012",
                 "desc": "Runner, room service"
             },
@@ -76,28 +78,29 @@
             },
             {
                 "title": "Mesero Eventual",
-                "location": "Bar le Merval, Hotel Madero, Hotel Anselmo - BUENOS AIRES",
+                "location": "Bar le Merval - BUENOS AIRES",
+                "hotel": "Hotel Madero, Hotel Anselmo",
                 "date": "2016"
             },
             {
                 "title": "Mesero Restaurante trabajador",
-                "location": "Ikea food - Paris",
+                "location": "Ikea food - París",
                 "date": "2015"
             },
             {
                 "title": "Mesero Eventual",
-                "location": "Paradis Latin - Paris",
+                "location": "Paradis Latin - París",
                 "date": "2013"
             },
             {
                 "title": "Apprenti commis de salle",
-                "location": "Paradis Latin - Paris",
+                "location": "Paradis Latin - París",
                 "date": "2010",
                 "desc": "Servicio de banquetes "
             },
             {
                 "title": "Apprenti commis de cuisine",
-                "location": "Charlie Birdy - Paris",
+                "location": "Charlie Birdy - París",
                 "date": "2009"
             },
             {
@@ -113,7 +116,7 @@
         "list": [
             {
                 "title": "BTS Hôtellerie-Restauration En alternance",
-                "location": "Paris",
+                "location": "París",
                 "date": "2010",
                 "desc": "Commis de cuisine et de salle"
             },

@@ -1,7 +1,7 @@
 <template>
     <footer class="copyright">
         <span style="text-align: left;">Made with
-            <img id="vue" src="../assets/vue.png" alt=""> - by <a href="http://erwanel.github.io"> ErwanEL </a> - <i class="fas fa-laptop mr-1"></i> and
+            <img id="vue" src="../assets/vue.png" alt=""> - by <a target="_blank" href="http://erwanel.github.io"> ErwanEL </a> - <i class="fas fa-laptop mr-1"></i> and
             <img id="mate" src="../assets/test.svg" alt="">
         </span> 
         <p class="mt-1">

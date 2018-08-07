@@ -11,7 +11,6 @@
             <div class="col-sm-8">
                 <div class="education-wrapper">
                     <Experience v-for="item in data.experiences.list" :item="item"></Experience>
-
                 </div><!-- education-wrapper -->
             </div><!-- col-sm-8 -->
         </div><!-- row -->
