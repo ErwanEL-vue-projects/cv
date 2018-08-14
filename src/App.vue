@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Header></Header>
+    <Header/>
     <Intro/>
     <Portfolio/>
 	<Skills/>
@@ -76,7 +76,7 @@ a, button{ display: inline-block; text-decoration: none; color: inherit; line-he
 
 a:focus, a:active, a:hover,
 button:focus, button:active, button:hover,
-a b.light-color:hover{ text-decoration: none; color: #3782aa; }
+a b.light-color:hover{ text-decoration: none; color: #023859; }
 
 b{ font-weight: 600; }
 

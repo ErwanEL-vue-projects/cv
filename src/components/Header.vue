@@ -49,8 +49,6 @@ export default {
 };
 </script>
 
-
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
   header{ position: absolute; top: 30px; left: 0; right: 0; z-index: 100; }
 

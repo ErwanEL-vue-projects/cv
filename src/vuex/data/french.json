@@ -39,11 +39,11 @@
         "list": [
             {
                 "title": "En salle",
-                "list": ["Réservations", "Mise en place", "Accueil", "Prise de commande", "Service", "Encaissements", "Prendre congé des clients", "Redressage des tables"]
+                "list": ["Réservations.", "Mise en place.", "Accueil.", "Prise de commande.", "Service.", "Encaissements.", "Prendre congé des clients.", "Redressage des tables."]
             },
             {
                 "title": "Autre",
-                "list": ["Room service: Prise de commandes", "Service en chambre", " mini-bar: Dressage du buffet", " Runner"]
+                "list": ["Room service: Prise de commandes, mini-bar.", "Service en chambre.", "Dressage du buffet.", "Runner."]
             }
         ]
     },
@@ -52,31 +52,34 @@
         "desc": "EXPERIENCES ANTERIEURES",
         "list": [
             {
-                "title": "Demi chef de rang",
-                "location": "Le Burgundy - Paris",
+                "title": "Chef de rang",
+                "location": "Restaurant Le Baudelaire - Paris",
+                "hotel": "Hôtel Le burgundy",
                 "date": "2012",
-                "desc": "Service petit déjeuner, déjeuner, dîner, cocktails dinatoire, banquets"
+                "desc": "Service petit déjeuner, déjeuner, dîner, cocktails dinatoire, banquets."
             },
             {
                 "title": "Commis de salle",
-                "location": "Le Burgundy - Paris",
+                "location": "Restaurant Le Baudelaire - Paris",
+                "hotel": "Hôtel Le burgundy",
                 "date": "2012",
-                "desc": "Runner, room service"
+                "desc": "Runner, room service."
             },
             {
                 "title": "Chef de rang",
-                "location": "Mia Bistrot - PUNTA DEL ESTE URUGUAY",
+                "location": "Mia Bistrot - Punta del este - Uruguay",
                 "date": "2017",
-                "desc": "Saison d'été"
+                "desc": "Saison d'été."
             },
             {
                 "title": "Serveur",
-                "location": "Bar Beersel - BUENOS AIRES",
+                "location": "Bar Beersel - Buenos aires",
                 "date": "2016"
             },
             {
                 "title": "Serveur extra",
-                "location": "Bar le Merval, Hotel Madero, Hotel Anselmo - BUENOS AIRES",
+                "location": "Bar le Merval - Buenos aires",
+                "hotel": "Hôtel Madero, Hôtel Anselmo",
                 "date": "2016"
             },
             {
@@ -93,7 +96,7 @@
                 "title": "Apprenti commis de salle",
                 "location": "Paradis Latin - Paris",
                 "date": "2010",
-                "desc": "Service de banquet"
+                "desc": "Service de banquet."
             },
             {
                 "title": "Apprenti commis de cuisine",
@@ -112,10 +115,10 @@
         "desc": "MON PARCOURS",
         "list": [
             {
-                "title": "BTS Hôtellerie-Restauration En alternance",
-                "location": "Paris",
+                "title": "BTS Hôtellerie-Restauration",
+                "location": "EPMTTH - Paris",
                 "date": "2010",
-                "desc": "Commis de cuisine et de salle"
+                "desc": "Formation en alternance."
             },
             {
                 "title": "BAC STI Génie électrotechnique ",
@@ -130,16 +133,16 @@
         "desc": "MES LOISIRS",
         "list": [
             {
-                "title": "Outil informatique",
-                "list": ["Micros", "InDesign", "Développement web"]
+                "title": "Outils informatiques",
+                "list": ["Micros", "InDesign", "Développement web."]
             },
             {
                 "title": "Sports",
-                "list": ["Natation", "Tennis"]
+                "list": ["Natation", "Tennis."]
             },
             {
                 "title": "Autres",
-                "list": ["Voyages (Argentine, Uruguay, Brésil, Chili, Colombie)"]
+                "list": ["Voyages (Argentine, Uruguay, Brésil, Chili, Colombie)."]
             }
         ]
     }

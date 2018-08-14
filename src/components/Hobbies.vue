@@ -10,15 +10,6 @@
             </div><!-- col-sm-4 -->
             <div class="col-sm-8">
                 <Hobbie v-for="item in data.hobbies.list" :item="item"/>
-<!--             
-                <div class="experience margin-b-50">
-                    <ul class="list margin-b-30">
-                        <li><b>Duis non volutpat:</b> arcu, eu mollis tellus.</li>
-                        <li>Quis consequat nulla effi citur at.</li>
-                        <li>Sed finibus aliquam neque sit.</li>
-                    </ul>
-                </div>experience -->
-
             </div><!-- col-sm-8 -->
         </div><!-- row -->
     </div><!-- container -->

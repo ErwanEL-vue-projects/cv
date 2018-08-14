@@ -10,7 +10,6 @@
             </div><!-- col-sm-4 -->
             <div class="col-sm-8">
                 <Education v-for="item in data.educations.list" :item="item"/>
-                
             </div><!-- col-sm-8 -->
         </div><!-- row -->
     </div><!-- container -->

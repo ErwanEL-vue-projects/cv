@@ -23,38 +23,42 @@
 
 				<div class="p-item branding">
 					<a class="img" href="https://www.hotelmadero.com/en/" target="_blank" data-fluidbox>
-						<img src="static/images/xp/madero-uva.jpg" alt=""></a>
+						<img src="../assets/portfolio/madero-uva.jpg" alt=""></a>
 				</div><!-- p-item -->
 				
 				<div class="p-item branding">
 					<a href="https://www.facebook.com/beerselcerveceria" target="_blank" data-fluidbox>
-						<img src="static/images/xp/beersel2.jpg" alt=""></a>
+						<img src="../assets/portfolio/beersel2.jpg" alt=""></a>
 				</div><!-- p-item -->
 
 				<div class="p-item web-design">
 					<a href="https://www.paradislatin.com/" target="_blank" data-fluidbox>
-						<img src="static/images/xp/paradislatin-logo.png" alt=""></a>
+						<img src="../assets/portfolio/paradislatin-logo.png" alt=""></a>
+				</div><!-- p-item -->
+
+				<div class="p-item  web-design">
+					<a target="_blank" href="http://comme-chez-maman.com/" data-fluidbox>
+						<img src="../assets/portfolio/comme_chez_maman.png" alt=""></a>
+				</div><!-- p-item -->
+
+				<div class="p-item web-design mx-auto my-auto">
+					<a target="_blank" href="http://www.epmt.fr/" data-fluidbox>
+					<img src="../assets/portfolio/epmt.svg" alt="epmtth"></a>
 				</div><!-- p-item -->
 
 				<div class="p-item web-design">
 					<a target="_blank" href="https://www.leburgundy.com/" data-fluidbox>
-					<img src="static/images/xp/burgundy.png" alt=""></a>
+					<img src="../assets/portfolio/burgundy.png" alt=""></a>
 				</div><!-- p-item -->
-				
-				<div class="p-item  web-design">
-					<a target="_blank" href="http://comme-chez-maman.com/" data-fluidbox>
-						<img src="static/images/xp/comme_chez_maman.svg" alt=""></a>
-				</div><!-- p-item -->
-
 				
 				<div class="p-item graphic-design">
 					<a href="http://miabistropuntadeleste.com/" target="_blank" data-fluidbox>
-						<img src="static/images/xp/miaBistrot.png" alt=""></a>
+						<img src="../assets/portfolio/miaBistrot.png" alt=""></a>
 				</div><!-- p-item -->
 				
 				<div class="p-item branding">
 					<a href="http://curiocollection3.hilton.com/en/hotels/argentina/anselmo-buenos-aires-curio-collection-by-hilton-BUEBAQQ/index.html" target="_blank"  data-fluidbox>
-						<img src="static/images/xp/anselmo.jpg" alt=""></a>
+						<img src="../assets/portfolio/anselmo.jpg" alt=""></a>
 				</div><!-- p-item -->
 					
 			
@@ -102,7 +106,7 @@ export default {
 
 .portfolio-section .portfolioFilter a{ margin: 10px 10px 0 0; }
 
-.portfolio-section .portfolioFilter a.current{ color: #023859; }
+.portfolio-section .portfolioFilter a.current{ color: #3782aa; }
 
 .portfolio-section .portfolioContainer{ margin-left: -15px; margin-right: -15px; }
 

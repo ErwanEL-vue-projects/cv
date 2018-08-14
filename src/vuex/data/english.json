@@ -39,11 +39,11 @@
         "list": [
             {
                 "title": "In the dinning room",
-                "list": ["Reservations", "Preparation of the restaurant", "Welcoming customers", "Take the order", "Table service", "Reception", "Greet customers", "Dress the tables"]
+                "list": ["Reservations.", "Preparation of the restaurant.", "Welcoming customers.", "Take the order.", "Table service.", "Reception.", "Greet customers.", "Dress the tables."]
             },
             {
                 "title": "Others",
-                "list": ["Room service: Take the order", "Room service", "Mini-bar: Dress the buffet", " Runner"]
+                "list": ["Room service: Take the order, Mini-bar.", "Room service.", "Dress the buffet.", "Runner."]
             }
         ]
     },
@@ -54,30 +54,33 @@
 "list": [
             {
                 "title": "Chef de rang",
-                "location": "Le Burgundy - Paris",
+                "location": "Restaurant Le Baudelaire - Paris",
+                "hotel": "Hotel Le burgundy",
                 "date": "2012",
-                "desc": "Breakfast, lunch, dinner, banquets, cocktails"
+                "desc": "Breakfast, lunch, dinner, banquets, cocktails."
             },
             {
                 "title": "Commis de salle",
-                "location": "Le Burgundy - Paris",
+                "location": "Restaurant Le Baudelaire - Paris",
+                "hotel": "Hotel Le burgundy",
                 "date": "2012",
-                "desc": "Runner, room service"
+                "desc": "Runner, room service."
             },
             {
                 "title": "Waiter",
-                "location": "Mia Bistrot - PUNTA DEL ESTE URUGUAY",
+                "location": "Mia Bistrot - Punta del este - Uruguay",
                 "date": "2017",
-                "desc": "Summer season"
+                "desc": "Summer season."
             },
             {
                 "title": "Waiter",
-                "location": "Bar brewery, Beersel - BUENOS AIRES",
+                "location": "Bar brewery, Beersel - Buenos aires",
                 "date": "2016"
             },
             {
                 "title": "Waiter events",
-                "location": "Bar le Merval, Hotel Madero, Hotel Anselmo - BUENOS AIRES",
+                "location": "Bar le Merval - Buenos aires",
+                "hotel": "Hotel Madero, Hotel Anselmo",
                 "date": "2016"
             },
             {
@@ -94,7 +97,7 @@
                 "title": "Apprentice commis de salle",
                 "location": "Paradis Latin - Paris",
                 "date": "2010",
-                "desc": "Banquet service"
+                "desc": "Banquet service."
             },
             {
                 "title": "Apprentice commis de cuisine",
@@ -114,9 +117,9 @@
         "list": [
             {
                 "title": "BTS Hôtellerie-Restauration En alternance",
-                "location": "Paris",
+                "location": "EPMTTH - Paris",
                 "date": "2010",
-                "desc": "Commis de cuisine et de salle"
+                "desc": "Alternative training."
             },
             {
                 "title": "BAC STI Génie électrotechnique ",
@@ -132,15 +135,15 @@
         "list": [
             {
                 "title": "Computing",
-                "list": ["Micros", "InDesign", "Web development"]
+                "list": ["Micros", "InDesign", "Web development."]
             },
             {
                 "title": "Sports",
-                "list": ["Natation", "Tennis"]
+                "list": ["Natation", "Tennis."]
             },
             {
                 "title": "Others",
-                "list": ["French clases, Voyages (Argentine, Uruguay, Brésil, Chili, Colombie)"]
+                "list": ["French clases, Voyages (Argentine, Uruguay, Brésil, Chili, Colombie)."]
             }
         ]
     }

@@ -39,11 +39,11 @@
         "list": [
             {
                 "title": "En el comedor",
-                "list": ["Reservaciones", " preparación del restaurante", " bienvenida de los clientes", " recibir el pedido", " servicio", " recepción", " despedir clientes", " poner las mesas."]
+                "list": ["Tomar reservaciones.", "Preparación del restaurante.", " Bienvenida de los clientes.", "Recibir el pedido.", "Servicio.", "Recepción.", "Despedir clientes.", "Poner las mesas."]
             },
             {
                 "title": "Otro",
-                "list": ["Room service: Tomar el pedido", " servicio de habitaciones", " mini-bar: Poner el bufé", " Runner"]
+                "list": ["Room service: Tomar el pedido, mini-bar.", " Servicio de habitaciones.", "Poner el bufé.", " Runner."]
             }
         ]
     },
@@ -53,32 +53,32 @@
         "list": [
             {
                 "title": "Demi chef de rang",
-                "location": "Restaurant le Baudelaire - París",
+                "location": "Restaurant Le Baudelaire - París",
                 "hotel": "Hotel Le burgundy",
                 "date": "2012",
-                "desc": "Petit déjeuner, banquets"
+                "desc": "Servicios desayunos, comida, cena, cócteles cena."
             },
             {
                 "title": "Commis de salle",
-                "location": "Restaurant le Baudelaire - París",
+                "location": "Restaurant Le Baudelaire - París",
                 "hotel": "Hotel Le burgundy",
                 "date": "2012",
-                "desc": "Runner, room service"
+                "desc": "Runner, room service."
             },
             {
                 "title": "Mesero",
-                "location": "Mia Bistrot - PUNTA DEL ESTE URUGUAY",
+                "location": "Mia Bistrot - Punta del este - Uruguay",
                 "date": "2017",
-                "desc": "Temporada "
+                "desc": "Temporada verano."
             },
             {
                 "title": "Mesero",
-                "location": "Bar Cerveceria, Beersel - BUENOS AIRES",
+                "location": "Bar Cerveceria, Beersel - Buenos aires",
                 "date": "2016"
             },
             {
                 "title": "Mesero Eventual",
-                "location": "Bar le Merval - BUENOS AIRES",
+                "location": "Bar le Merval - Buenos aires",
                 "hotel": "Hotel Madero, Hotel Anselmo",
                 "date": "2016"
             },
@@ -96,7 +96,7 @@
                 "title": "Apprenti commis de salle",
                 "location": "Paradis Latin - París",
                 "date": "2010",
-                "desc": "Servicio de banquetes "
+                "desc": "Servicio de banquetes."
             },
             {
                 "title": "Apprenti commis de cuisine",
@@ -115,10 +115,10 @@
         "desc": "MIS FORMACIONES",
         "list": [
             {
-                "title": "BTS Hôtellerie-Restauration En alternance",
-                "location": "París",
+                "title": "BTS Hôtellerie-Restauration",
+                "location": "EPMTTH - París",
                 "date": "2010",
-                "desc": "Commis de cuisine et de salle"
+                "desc": "Formación en alternencia."
             },
             {
                 "title": "BAC STI Génie électrotechnique ",
@@ -129,20 +129,20 @@
         ]
     },
     "hobbies": {
-        "title": "Centro de interés",
+        "title": "Centros de interés",
         "desc": "MIS CENTROS DE INTERES",
         "list": [
             {
                 "title": "Instrumentos informáticos",
-                "list": ["Micros", "InDesign", "Desarollo Web"]
+                "list": ["Micros", "InDesign", "Desarollo Web."]
             },
             {
                 "title": "Deportes",
-                "list": ["Natación", "Tenis"]
+                "list": ["Natación", "Tenis."]
             },
             {
                 "title": "Otros datos",
-                "list": ["Cursos de francés", "Viajes (Argentina, Uruguay, Brasil, Chile)"]
+                "list": ["Cursos de francés", "Viajes (Argentina, Uruguay, Brasil, Chile, Colombia)."]
             }
         ]
     }

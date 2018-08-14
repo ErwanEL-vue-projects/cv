@@ -2,7 +2,7 @@
     <div class="education margin-b-50">
         <h4><b>{{item.title}}</b></h4>
         <span class="d-inline-flex"><h5 class="font-yellow d-inline-flex"><b>{{item.location}}</b></h5>&nbsp;
-        <img v-show="checkMichelin()" id="michelin" src="../../../static/images/michelin.svg" alt="">
+        <img v-show="checkMichelin()" id="michelin" src="../../assets/xp/michelin.svg" alt="">
         </span>
         <div v-if="item.hotel">
             <span class="d-inline-flex"><h5>{{ item.hotel }}</h5></span>

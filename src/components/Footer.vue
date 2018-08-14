@@ -1,8 +1,8 @@
 <template>
     <footer class="copyright">
         <span style="text-align: left;">Made with
-            <img id="vue" src="../assets/vue.png" alt=""> - by <a target="_blank" href="http://erwanel.github.io"> ErwanEL </a> - <i class="fas fa-laptop mr-1"></i> and
-            <img id="mate" src="../assets/test.svg" alt="">
+            <img id="vue" src="../assets/footer/vue.png" alt=""> - by <a target="_blank" href="http://erwanel.github.io"> ErwanEL </a> - <i class="fas fa-laptop mr-1"></i> and
+            <img id="mate" src="../assets/footer/mate.svg" alt="">
         </span> 
         <p class="mt-1">
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
@@ -22,7 +22,6 @@ export default {
   })
 }
 
-    // document.write(new Date().getFullYear());
 </script>
 
 <style scoped>
