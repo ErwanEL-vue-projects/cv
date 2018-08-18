@@ -169,5 +169,8 @@ export default {
 
 @media only screen and (max-width: 767px) {
 	.intro-section{ padding-top: 350px; }
+	#languages {
+		margin-top: 15px;
+	}
 }
 </style>
