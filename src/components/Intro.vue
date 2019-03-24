@@ -10,7 +10,7 @@
 						<h4 class="font-blue">{{ data.infos.title }}</h4>
 						<div class="margin-tb-30">
 							<div class="row mx-auto">
-								<div class="col-md-6 col-lg-5 col-sm-12 mx-auto">
+								<div class="col-md-6 col-lg-6 col-sm-12 mx-auto">
 									<ul class="information">
 										<li><b>{{ data.infos.nationality.title }}:</b>&nbsp;{{ data.infos.nationality.value }}</li>
 										<li><b>{{ data.infos.dob.title }}:</b>&nbsp;{{ data.infos.dob.value }}</li>
@@ -18,7 +18,7 @@
 										</li><li><b>Loc:</b>&nbsp;{{ data.infos.location }}</li>
 									</ul>
 								</div>
-								<div style="padding: 0 8px" class="col-md-6 col-lg-5 col-sm-12 mx-auto">
+								<div style="padding: 0 8px" class="col-md-6 col-lg-6 col-sm-12 mx-auto">
 										<ul id="languages" class=" list-group">
 											<li class="list-group-item">{{ data.infos.languages.title }}</li>
 											<li class="list-group-item"><b>{{ data.infos.languages.english.title }}:</b>&nbsp;{{data.infos.languages.english.nivel}}</li>
@@ -105,15 +105,15 @@ export default {
 <style scoped>
 
 .intro-section{ padding-top: 200px; position: relative; background-size: cover; 
-	z-index: 1;background-image: url(../assets/header/resto.jpg); }
+	z-index: 1;background-image: url(../assets/header/test3.jpg); }
 
 .intro-section:before{ content:''; z-index: -1; position: absolute; top: 0; bottom: 0; left: 0; 
-	right: 0; background: rgba(0,0,0, .3);}
+	right: 0; background: rgba(255, 255, 255, 0.5);}
 	
 .intro-section:after{ content: ''; position: absolute; bottom: 0; left: 0; right: 0;
-	height: 150px; z-index: -1; background: #fff;  }
+	height: 150px; z-index: -1; background: rgb(255, 255, 255);  }
 
-.intro{ padding: 0 20px; margin-top: 100px; text-align: center; background: #fff; }
+.intro{ padding: 0 20px; margin-top: 100px; text-align: center; background: #fff;box-shadow: 0px 0px 3px 0px grey; }
 
 .intro .profile-img{ 
 	width: 125px; 

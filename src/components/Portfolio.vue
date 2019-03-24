@@ -100,7 +100,7 @@ export default {
 </script>
 
 <style scoped>
-.portfolio-section{ position: relative; }
+.portfolio-section{ position: relative; background-color: white;}
 
 .portfolio-section .portfolioFilter{ margin-top: 60px; color: #666; }
 
